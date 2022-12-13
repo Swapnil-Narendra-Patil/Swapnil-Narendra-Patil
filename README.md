@@ -8,8 +8,7 @@ I'm a graduate student in Software Engineering Systems at Northeastern Universit
 - 💬 Ask me about React, Javascript, Adobe Illustrator, Java.
 - 📫 How to reach me:
 
-<img align="left" alt="patil.swap@northeastern.com| E-mail" title="patil.swap@northeastern.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:patil.swap@northeastern.com"
-
+[<img align="left" alt="pandey.har@northeastern.com | E-mail" title="pandey.har@northeastern.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:pandey.har@northeastern.com)
 [<img align="left" alt="https://www.linkedin.com/in/swapnil-patil-5b0b70215/ | LinkedIn" title="https://www.linkedin.com/in/swapnil-patil-5b0b70215/" width="22px" height="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg" />](https://www.linkedin.com/in/swapnil-patil-5b0b70215/)
 <br>
 
