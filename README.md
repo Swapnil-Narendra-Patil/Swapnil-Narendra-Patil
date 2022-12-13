@@ -6,13 +6,14 @@ I'm a graduate student in Software Engineering Systems at Northeastern Universit
 - 🔭 I’m currently working on Interactive React  Dashboard project
 - 👯 I’m looking to collaborate on Web Design and Fullstack Developer roles
 - 💬 Ask me about React, Javascript, Adobe Illustrator, Java.
-- 📫 How to reach me:
+
+### 📫 How to reach me:
 
 [<img align="left" alt="patil.swap@northeastern.com | E-mail" title="patil.swap@northeastern.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:patil.swap@northeastern.com)
 [<img align="left" alt="https://www.linkedin.com/in/swapnil-patil-5b0b70215/ | LinkedIn" title="https://www.linkedin.com/in/swapnil-patil-5b0b70215/" width="22px" height="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg" />](https://www.linkedin.com/in/swapnil-patil-5b0b70215/)
 <br>
 
-###Languages and Tools:
+### Languages and Tools:
 
 <div>
 <img align="left" alt="Python" width="26px" height="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
