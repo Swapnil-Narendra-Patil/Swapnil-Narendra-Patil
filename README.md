@@ -5,7 +5,7 @@ I'm a graduate student in Software Engineering Systems at Northeastern Universit
 
 - 🔭 I’m currently working on Interactive React  Dashboard project
 - 👯 I’m looking to collaborate on Web Design and Fullstack Developer roles
-- 💬 Ask me about React, Javascript, Adobe Illustrator, Java.
+- 💬 Ask me about React, Javascript, Adobe Illustrator, Java and Python.
 
 ### 📫 How to reach me:
 
