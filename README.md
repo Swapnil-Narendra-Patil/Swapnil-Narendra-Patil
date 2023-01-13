@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <h2>⚡️ A Few Quick Facts</h2>
 
 
 I'm a graduate student in Software Engineering Systems at Northeastern University. Prior to this, I was employed by Nasik Cyclist Foundation(NGO) as a committee member on thier fullstack developer team. I have a strong interest in Web development and am passionate about designing interactive and innovative webpages.
@@ -40,6 +42,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: swapnilpatil0926@gmail.com, patil.swap@northeastern.edu
 -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" />
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
