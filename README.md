@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, Javascript, Adobe Illustrator, Java.
 - 📫 How to reach me: swapnilpatil0926@gmail.com, patil.swap@northeastern.edu
 -->
+
+<a href="https://github.com/Swapnil-Narendra-Patil"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
