@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: swapnilpatil0926@gmail.com, patil.swap@northeastern.edu
 -->
 
-<a href="https://github.com/Swapnil-Narendra-Patil"><img src="contributions.svg"></a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" />
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
