@@ -41,9 +41,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, Javascript, Adobe Illustrator, Java.
 - 📫 How to reach me: swapnilpatil0926@gmail.com, patil.swap@northeastern.edu
 -->
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
